@@ -2,6 +2,9 @@
 
 This project implements a Generative Adversarial Network (GAN) aimed at synthesizing realistic handwritten digits. 
 By training on the MNIST dataset, this GAN learns to generate new images of digits that closely resemble the real handwritten digits in the dataset. 
+<br> <br>
+
+![Handwritten digits Image](https://github.com/BapakmuLah/GANs-Architecture-for-generating-Handwritten-Digits/blob/747b5f5db32e8cef484e0cc915e95c3c3793ebc5/Building%20GANs%20Architecture%20for%20Generating%20Handwritten%20Digits/Handwritten_digits.png)
 
 # The project consists of two primary components:
 - Generator: A deep neural network that creates synthetic images from random noise (latent vectors).
